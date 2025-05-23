@@ -8,3 +8,7 @@ This repository contains the implementation used in our research article on low-
 - `Hadamard_BCD_multiple.py` — Implementation for the multi factord version.
 - `main.py` — Example usage script to run and compare the methods on sample datasets.
 - `datasets/` — Directory containing test matrices (e.g., real-world datasets such as images or spectrometer data).
+
+## To go further
+
+I created a second repository on GitLab which accompanies my Master's thesis and contains my codes in Julia (https://gitlab.com/WertzSamuel/tfe-hadamarddecompositions.git).
